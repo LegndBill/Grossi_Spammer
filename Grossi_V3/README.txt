@@ -1,0 +1,2 @@
+Before you can run this file you must go to https://chromedriver.storage.googleapis.com/index.html?path=2.44/
+and download the verison for your operating system. Next extact the file and move chromedriver.exe out of the folder.
